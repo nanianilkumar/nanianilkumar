@@ -1,0 +1,111 @@
+/* page re setrers8*/
+*{
+    padding:0;
+    margin: 0;
+}
+
+body{
+   margin: 50px auto;
+   width: 850px;
+   position:relative;
+
+
+   /* border:5px soild color red;*/
+   border:5px solid #000;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   line-height: 1.5;
+   
+
+
+}
+
+
+.title{
+        text-align: center;
+        background-color: #f7f7f7;
+        font-size: 24px;
+        text-transform: uppercase;
+        margin: 10px;
+}                  
+
+.borders1{
+        border: 1px soild black;
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+        background-color: black;
+}
+
+.borders2{
+        border: 1px soild black;
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+        background-color: blue;
+}
+
+              
+.borders3{
+        border: 1px soild black;
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+        background-color: red;
+}
+
+.borders4{
+        border: 1px soild black;
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+        background-color: yellow;
+}
+
+.borders5{
+        border: 1px soild black;
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+        background-color: green;
+}
+
+.borders6{
+        border: 1px soild black;
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        margin-right: 10px;
+        background-color: brown;
+}
+
+li{
+         margin-left: 20px;
+         list-style:square ;
+}
+
+button{
+        font-size: 14px;
+        color: #fff;
+        background-color: #ec2f2f;
+        font-weight: bold;
+        padding: 5px;
+        letter-spacing: 2px;
+        position:absolute;
+        top: -17px; 
+        left: -33px;
+        border: none;
+
+        
+}
+
+
+
+
+
+
+
