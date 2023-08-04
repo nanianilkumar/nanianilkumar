@@ -1,0 +1,132 @@
+            
+                
+                 .container-2{
+                          border: 5px solid black;
+                          width: 1000px;
+                          height: 380px;
+                          margin: auto;
+                          position: relative;
+                 }
+                 .header-2{
+                         text-align: center;
+                         background-color: rgb( 236,232,232);
+                         font-size: 25px;
+                         padding:15px;
+                         margin-top:0%;
+                         margin-bottom: 0%;
+
+                 
+                 }
+                 .challenge-jpg-2{
+                         width: 250px;
+                         height: 300px;
+                         float:left;
+                 }
+                 .sale-2{
+                        position: absolute;
+                        color: white;
+                        background-color: red;
+                        letter-spacing: 3px;
+                        font-weight: bold;
+                        border: 8px;
+                        top: -2%;
+                        left: -3%;
+                 }
+                 .child-div-2{
+                       display:flex;
+                       height: 250px;
+                 
+                 }
+                 .display{
+                        margin-left: 30px;
+                 }
+                 .para-2{
+                        font-size: 20px;
+                 }
+                 .a-2{
+                        font-size: 20px;
+                 }
+
+                 .free-shipping-2{
+                            float: right;
+                            margin-top: 30px;
+                            margin-bottom: 0%;
+                 
+                 }
+                 
+                 .border-box1{
+                 
+                                     
+                                     width: 20px;
+                                     height: 20px;
+                                     background-color: black;
+                                     margin-right: 10px; 
+                                     
+                             }
+                             
+                  .border-box2{
+                                     
+                                    
+                                     width: 20px;
+                                     height: 20px;
+                                     background-color: blue;
+                                     margin-right: 10px;
+                                     
+                             }
+                             
+                                           
+                  .border-box3{
+                                      width: 20px;
+                                     height: 20px;
+                                     background-color: red;
+                                     margin-right: 10px;
+                                                     
+                             }
+                             
+                 .border-box4{
+                                     width: 20pxx;
+                                     height: 20px;
+                                     background-color: yellow;
+                                     margin-right: 10px;
+                                     
+                             }
+                             
+                 .border-box5{
+                                     width: 20px;
+                                     height: 20px;
+                                     background-color: green;
+                                     margin-right: 10px;
+                                     
+                             }
+                             
+                 .border-box6{
+                                     
+                                    
+                                     width: 20px;
+                                     height: 20px;
+                                     background-color: brown;
+                                     margin-right: 10px;
+                                     
+                 }
+                 .border-2{
+                        display: flex;
+                        gap: 1opx;
+                        margin: 3opx;
+                 }
+                 .product-list-2 li{
+                        font-size: 20px;
+                 }
+                 .header-product{
+                        font-size: 25px;
+                 }
+                 
+                
+                 .add-to-cart{
+                                     width:100%;
+                                     background-color: black;
+                                     border:none;            
+                                     font-size: 20px;
+                                     padding:10px;
+                                     color: white; 
+                                     
+                 }
